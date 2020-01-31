@@ -5,35 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg8"
+   width="197.34441mm"
+   height="30.521mm"
+   viewBox="0 0 197.34441 30.521"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm"
-   sodipodi:docname="artomatica-logo-plain.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="0.2973261"
-     inkscape:cx="566.20701"
-     inkscape:cy="473.49273"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g823" />
+   id="svg8">
   <defs
      id="defs2" />
   <metadata
@@ -44,84 +20,79 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(-6.8802218,-24.394248)"
      id="layer1">
     <g
-       id="g823"
-       transform="matrix(2.1159054,0,0,-2.1159054,-47.983635,220.74383)">
+       transform="matrix(2.1159054,0,0,-2.1159054,-47.983635,220.74383)"
+       id="g823">
       <g
-         id="g829-2"
-         transform="matrix(0.68189616,0,0,0.68189616,35.076213,79.427019)">
+         transform="matrix(0.68189616,0,0,0.68189616,35.076213,79.427019)"
+         id="g829-2">
         <path
-           d="m 0,0 -10.998,10.998 8.61,8.609 h -2.416 l -8.61,-8.609 11.002,-11.002 h 2.408 z"
-           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path831-7"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g833-2"
-         transform="matrix(0.68189616,0,0,0.68189616,46.624875,79.427019)">
-        <path
-           d="M 0,0 10.998,10.998 2.389,19.607 H 4.805 L 13.414,10.998 2.412,-0.004 H 0.004 Z"
            style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 -10.998,10.998 8.61,8.609 h -2.416 l -8.61,-8.609 11.002,-11.002 h 2.408 z" />
+      </g>
+      <g
+         transform="matrix(0.68189616,0,0,0.68189616,46.624875,79.427019)"
+         id="g833-2">
+        <path
            id="path835-6"
-           inkscape:connector-curvature="0" />
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 10.998,10.998 2.389,19.607 H 4.805 L 13.414,10.998 2.412,-0.004 H 0.004 Z" />
       </g>
       <g
-         style="fill:#064273;fill-opacity:1"
+         transform="matrix(0.68189616,0,0,0.68189616,37.161246,92.080077)"
          id="g837-5"
-         transform="matrix(0.68189616,0,0,0.68189616,37.161246,92.080077)">
+         style="fill:#064273;fill-opacity:1">
         <path
-           d="m 0,0 -6.72,-6.72 h 2.416 L 0,-2.416 4.305,-6.72 5.724,-8.139 v 2.416 z"
-           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path839-5"
-           inkscape:connector-curvature="0" />
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 -6.72,-6.72 h 2.416 L 0,-2.416 4.305,-6.72 5.724,-8.139 v 2.416 z" />
       </g>
       <g
-         style="fill:#064273;fill-opacity:1"
+         transform="matrix(0.68189616,0,0,0.68189616,35.292987,85.099305)"
          id="g841-9"
-         transform="matrix(0.68189616,0,0,0.68189616,35.292987,85.099305)">
+         style="fill:#064273;fill-opacity:1">
         <path
-           d="M 0,0 H -2.562 L 8.463,-9.865 v 2.292 z"
-           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path843-3"
-           inkscape:connector-curvature="0" />
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 H -2.562 L 8.463,-9.865 v 2.292 z" />
       </g>
       <g
-         style="fill:#064273;fill-opacity:1"
+         transform="matrix(0.68189616,0,0,0.68189616,44.96739,92.080077)"
          id="g845-9"
-         transform="matrix(0.68189616,0,0,0.68189616,44.96739,92.080077)">
+         style="fill:#064273;fill-opacity:1">
         <path
-           d="M 0,0 6.72,-6.72 H 4.304 L 0,-2.416 -4.305,-6.72 -5.724,-8.139 v 2.416 z"
-           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path847-8"
-           inkscape:connector-curvature="0" />
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 6.72,-6.72 H 4.304 L 0,-2.416 -4.305,-6.72 -5.724,-8.139 v 2.416 z" />
       </g>
       <g
-         style="fill:#064273;fill-opacity:1"
+         transform="matrix(0.68189616,0,0,0.68189616,46.835308,85.099305)"
          id="g849-9"
-         transform="matrix(0.68189616,0,0,0.68189616,46.835308,85.099305)">
+         style="fill:#064273;fill-opacity:1">
         <path
-           d="M 0,0 H 2.562 L -8.463,-9.865 v 2.292 z"
-           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path851-8"
-           inkscape:connector-curvature="0" />
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 H 2.562 L -8.463,-9.865 v 2.292 z" />
       </g>
       <text
-         transform="scale(1,-1)"
-         id="text870-4"
-         y="-83.3638"
-         x="59.452095"
+         xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.27686024px;line-height:1.25;font-family:overpass;-inkscape-font-specification:overpass;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.2569215"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#333333;fill-opacity:1;stroke-width:0.2569215"
-           y="-83.3638"
+         x="59.452095"
+         y="-83.3638"
+         id="text870-4"
+         transform="scale(1,-1)"><tspan
+           id="tspan868-6"
            x="59.452095"
-           id="tspan868-6">ARTOMATICA</tspan></text>
+           y="-83.3638"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#333333;fill-opacity:1;stroke-width:0.2569215">ARTOMATICA</tspan></text>
     </g>
   </g>
 </svg>
