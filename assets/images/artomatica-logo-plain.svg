@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g823"
+       transform="matrix(2.1159054,0,0,-2.1159054,-47.983635,220.74383)">
+      <rect
+         ry="0.60969794"
+         transform="scale(1,-1)"
+         y="-128.81148"
+         x="23.17383"
+         height="83.20491"
+         width="93.490379"
+         id="rect933"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.07035175;stroke:none;stroke-width:0.53353822;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g829-2"
+         transform="translate(56.154616,2.5350245)">
+        <path
+           d="m 0,0 -10.998,10.998 8.61,8.609 h -2.416 l -8.61,-8.609 11.002,-11.002 h 2.408 z"
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path831-7" />
+      </g>
+      <g
+         id="g833-2"
+         transform="translate(73.090716,2.5350245)">
+        <path
+           d="M 0,0 10.998,10.998 2.389,19.607 H 4.805 L 13.414,10.998 2.412,-0.004 H 0.004 Z"
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path835-6" />
+      </g>
+      <g
+         style="fill:#064273;fill-opacity:1"
+         id="g837-5"
+         transform="translate(59.212315,21.090721)">
+        <path
+           d="m 0,0 -6.72,-6.72 h 2.416 L 0,-2.416 4.305,-6.72 5.724,-8.139 v 2.416 z"
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path839-5" />
+      </g>
+      <g
+         style="fill:#064273;fill-opacity:1"
+         id="g841-9"
+         transform="translate(56.472515,10.853426)">
+        <path
+           d="M 0,0 H -2.562 L 8.463,-9.865 v 2.292 z"
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path843-3" />
+      </g>
+      <g
+         style="fill:#064273;fill-opacity:1"
+         id="g845-9"
+         transform="translate(70.660016,21.090721)">
+        <path
+           d="M 0,0 6.72,-6.72 H 4.304 L 0,-2.416 -4.305,-6.72 -5.724,-8.139 v 2.416 z"
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path847-8" />
+      </g>
+      <g
+         style="fill:#064273;fill-opacity:1"
+         id="g849-9"
+         transform="translate(73.399316,10.853426)">
+        <path
+           d="M 0,0 H 2.562 L -8.463,-9.865 v 2.292 z"
+           style="fill:#064273;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path851-8" />
+      </g>
+      <text
+         transform="scale(1,-1)"
+         id="text870-4"
+         y="-8.3083086"
+         x="91.901833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.07100487px;line-height:1.25;font-family:overpass;-inkscape-font-specification:overpass;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.37677512"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#333333;fill-opacity:1;stroke-width:0.37677512"
+           y="-8.3083086"
+           x="91.901833"
+           id="tspan868-6">ARTOMATICA</tspan></text>
+    </g>
+  </g>
+</svg>
