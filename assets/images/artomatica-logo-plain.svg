@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="197.34441mm"
-   height="30.521mm"
-   viewBox="0 0 197.34441 30.521"
+   width="184.72127mm"
+   height="30.520998mm"
+   viewBox="0 0 184.72127 30.520998"
    version="1.1"
    id="svg8">
   <defs
@@ -85,14 +85,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.27686024px;line-height:1.25;font-family:overpass;-inkscape-font-specification:overpass;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.2569215"
-         x="59.452095"
-         y="-83.3638"
+         x="58.951912"
+         y="-83.863983"
          id="text870-4"
          transform="scale(1,-1)"><tspan
            id="tspan868-6"
-           x="59.452095"
-           y="-83.3638"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#333333;fill-opacity:1;stroke-width:0.2569215">ARTOMATICA</tspan></text>
+           x="58.951912"
+           y="-83.863983"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33669186px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#333333;fill-opacity:1;stroke-width:0.2569215">ARTOMATICA</tspan></text>
     </g>
   </g>
 </svg>
