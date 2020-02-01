@@ -1,27 +1,27 @@
 <svg width="136.22mm" height="62.272mm" version="1.1" viewBox="0 0 136.22 62.272" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(29.015 -24.394)">
   <g transform="matrix(2.1159 0 0 -2.1159 -47.984 220.74)">
-   <g transform="matrix(.6819 0 0 .6819 35.076 79.427)">
+   <g transform="matrix(.61753 0 0 .61753 35.613 79.439)">
     <path d="m0 0-10.998 10.998 8.61 8.609h-2.416l-8.61-8.609 11.002-11.002h2.408z" fill="#333"/>
    </g>
-   <g transform="matrix(.6819 0 0 .6819 46.625 79.427)">
+   <g transform="matrix(.61753 0 0 .61753 46.071 79.439)">
     <path d="m0 0 10.998 10.998-8.609 8.609h2.416l8.609-8.609-11.002-11.002h-2.408z" fill="#333"/>
    </g>
    <g fill="#064273">
-    <g transform="matrix(.6819 0 0 .6819 37.161 92.08)">
+    <g transform="matrix(.61753 0 0 .61753 37.501 90.897)">
      <path d="m0 0-6.72-6.72h2.416l4.304 4.304 4.305-4.304 1.419-1.419v2.416z" fill="#064273"/>
     </g>
-    <g transform="matrix(.6819 0 0 .6819 35.293 85.099)">
+    <g transform="matrix(.61753 0 0 .61753 35.809 84.575)">
      <path d="m0 0h-2.562l11.025-9.865v2.292z" fill="#064273"/>
     </g>
-    <g transform="matrix(.6819 0 0 .6819 44.967 92.08)">
+    <g transform="matrix(.61753 0 0 .61753 44.57 90.897)">
      <path d="m0 0 6.72-6.72h-2.416l-4.304 4.304-4.305-4.304-1.419-1.419v2.416z" fill="#064273"/>
     </g>
-    <g transform="matrix(.6819 0 0 .6819 46.835 85.099)">
+    <g transform="matrix(.61753 0 0 .61753 46.262 84.575)">
      <path d="m0 0h2.562l-11.025-9.865v2.292z" fill="#064273"/>
     </g>
    </g>
-   <text transform="scale(1,-1)" x="8.7475433" y="-63.447884" fill="#333333" font-family="overpass" font-size="12.231px" letter-spacing="0px" stroke-width=".30576" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="8.7475433" y="-63.447884" fill="#333333" font-family="Bahnschrift" font-size="11.112px" stroke-width=".30576">ARTOMATICA</tspan></text>
+   <text transform="scale(1,-1)" x="11.769104" y="-64.967628" fill="#333333" font-family="overpass" font-size="11.076px" letter-spacing="0px" stroke-width=".2769" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="11.769104" y="-64.967628" fill="#333333" font-family="Bahnschrift" font-size="10.063px" stroke-width=".2769">ARTOMATICA</tspan></text>
   </g>
  </g>
 </svg>
