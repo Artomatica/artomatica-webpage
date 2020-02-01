@@ -6,7 +6,7 @@ excerpt: "About"
 last_modified_at:
 ---
 
-<img width="100%" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
+<img width="100%" style="float: left; overflow: visible; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
 <p style="text-indent: 25px;">The most effective way to create sustainable future of humanity is in automation of world around us while caring about each individual, our society and our planet.
 Work in the future is optional. People need to do only things they are fond of. Artomatica handles all the boring tasks for you.</p>
@@ -31,9 +31,9 @@ Work in the future is optional. People need to do only things they are fond of. 
 <img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 10px;" src="/assets/images/mission/values.svg" >
 ## Our Values
 + **Collaboration**: Teaming with you, our customer, to most effectively communicate your ideas through our creative process.
-+ **Integrity**: Uncompromising honesty and openness in all we do.
-+ **Commitment**: Fully focused, dedicated, and enthusiastic in our work.
-+ **Agility**: Innovation and research are the foundation of our work.
++ **Integrity**: Uncompromising honesty and openness.
++ **Commitment**: Fully focused, dedicated, enthusiastic.
++ **Agility**: Innovation and research are the foundation.
 + **Quality**: Uncompromising original work tailored to meet highest standards of our customers.
 
 # History
