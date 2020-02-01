@@ -10,5 +10,9 @@ $sans-serif-narrow  : "Roboto", sans-serif;
 $header-font-family : $sans-serif-narrow;
 $global-font-family : $serif;
 
+.greedy-nav .visible-links a:before {
+  background-color: #064273;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
