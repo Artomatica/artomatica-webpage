@@ -169,9 +169,12 @@
 
     .page__lead {
       max-width: $medium;
-	  color: #fff;
+	  color: #000;
     }
 	
+	.page__lead span {
+      background-color:rgba(255,255,255,0.3);/*background color and opacity together*/
+    }
 
     .page__title {
       font-size: $type-size-2;
