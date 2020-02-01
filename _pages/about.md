@@ -1,5 +1,5 @@
 ---
-permalink: /we/
+permalink: /About/
 layout: single
 title: "About"
 excerpt: "About"
