@@ -4,5 +4,8 @@
 
 @charset "utf-8";
 
+$sans-serif-narrow  : "RobotoS", sans-serif;
+$header-font-family : $sans-serif-narrow;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
