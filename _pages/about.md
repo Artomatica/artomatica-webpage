@@ -7,7 +7,7 @@ last_modified_at:
 ---
 
 ## Our Goals
-<img height="100" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/goals.svg" > 
+<img width="100px" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/goals.svg" > 
 
 + Build products that make life of our customers **simple** and **clever**.
 + Be location independent  business, **create and distribute future** around the world.
@@ -18,14 +18,14 @@ last_modified_at:
 + **Responsively  use resources**, preserve the planet for future generations.
 
 ## Our Vision
-<img height="100" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/vision.svg" >
+<img width="100px" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/vision.svg" >
 
 + **Automation**: We automate everything. Robots work people create.
 + **Mastery**: We continuously  deliver and improve our products.
 + **Resourcefulness**: We believe  in sustainable development, preserving planet for future generations.
 
 ## Our Values
-<img height="100" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/values.svg" >
+<img width="100px" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 30px;" src="/assets/images/mission/values.svg" >
 + **Collaboration**: Teaming with you, our customer, to most effectively communicate your ideas through our creative process.
 + **Integrity**: Uncompromising honesty and openness in all we do.
 + **Commitment**: Fully focused, dedicated, and enthusiastic in our work.
