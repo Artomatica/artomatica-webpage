@@ -6,7 +6,7 @@ excerpt: "About"
 last_modified_at:
 ---
 
-<img width="100%" style="float: center; padding-left: 0px; padding-bottom: 10px; padding-right: px;" src="/assets/images/artomatica-logo-bottom.svg" >
+<img width="80%" style="float: center; padding-left: 0px; padding-bottom: 10px; padding-right: px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
 <p style="text-indent: 25px;">The most effective way to create sustainable future of humanity is in automation of world around us while caring about each individual, our society and our planet.
 Work in the future is optional. People need to do only things they are fond of. Artomatica handles all the boring tasks for you.</p>
