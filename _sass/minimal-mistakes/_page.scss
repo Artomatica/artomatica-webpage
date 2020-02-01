@@ -170,13 +170,11 @@
     .page__lead {
       max-width: $medium;
 	  text-shadow: 1px 1px 4px rgba(#fff, 0.5);
-	  background-color: #eaecee;
     }
 	
 
     .page__title {
       font-size: $type-size-2;
-	  background-color: #eaecee;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
