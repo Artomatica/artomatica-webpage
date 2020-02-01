@@ -6,12 +6,12 @@ excerpt: "About"
 last_modified_at:
 ---
 
-<img width="80%" style="float: center; padding-left: 0px; padding-bottom: 10px; padding-right: px;" src="/assets/images/artomatica-logo-bottom.svg" >
+<img width="100%" style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
 <p style="text-indent: 25px;">The most effective way to create sustainable future of humanity is in automation of world around us while caring about each individual, our society and our planet.
 Work in the future is optional. People need to do only things they are fond of. Artomatica handles all the boring tasks for you.</p>
 
-<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 30px;" src="/assets/images/mission/goals.svg" > 
+<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 10px;" src="/assets/images/mission/goals.svg" > 
 ## Our Goals
 + Invest in products that make life of our customers **simple** and **clever**.
 + Be location independent  business, **create and distribute future** around the world.
@@ -21,14 +21,14 @@ Work in the future is optional. People need to do only things they are fond of. 
 + **Provide an environment** that enables Artomatica team members **to grow** and realize our vision.
 + **Responsively  use resources**, preserve the planet for future generations.
 
-<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 30px;" src="/assets/images/mission/vision.svg" >
+<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 10px;" src="/assets/images/mission/vision.svg" >
 ## Our Vision
 + **Automation**: We automate everything. Robots work people create.
 + **Mastery**: We continuously  deliver and improve our products.
 + **Education**: We promote innovation by contributing to the education of oureselfs and our costumer.
 + **Resourcefulness**: We believe  in sustainable development, preserving planet for future generations.
 
-<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 30px;" src="/assets/images/mission/values.svg" >
+<img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 10px;" src="/assets/images/mission/values.svg" >
 ## Our Values
 + **Collaboration**: Teaming with you, our customer, to most effectively communicate your ideas through our creative process.
 + **Integrity**: Uncompromising honesty and openness in all we do.
