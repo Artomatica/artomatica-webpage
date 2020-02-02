@@ -35,7 +35,3 @@ Work in the future is optional. People need to do only things they are fond of. 
 + **Commitment**: Fully focused, dedicated, enthusiastic.
 + **Agility**: Innovation and research are the foundation of our development process.
 + **Quality**: Uncompromising original work tailored to meet highest standards of our customers.
-
-# History
-
-History of Artomatica
