@@ -23,7 +23,7 @@ Work in the future is optional. People need to do only things they are fond of. 
 
 <img width="80px" style="float: left; padding-left: 0px; padding-bottom: 0px; padding-right: 10px;" src="/assets/images/mission/vision.svg" >
 ## Our Vision
-+ **Automation**: We automate everything. Robots work people create.
++ **Automation**: We automate everything. Robots work, people create.
 + **Mastery**: We continuously  deliver and improve our products.
 + **Education**: We promote innovation by contributing to the education of oureselfs and our costumer.
 + **Resourcefulness**: We believe in sustainable development.
