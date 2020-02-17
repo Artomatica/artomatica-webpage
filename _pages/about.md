@@ -8,7 +8,7 @@ last_modified_at:
 
 <img width="100%" style="float: left; height: 100%; width: 100%; overflow: visible; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
-We create personal electronics for well-bieng, from Protorype to Market. 
+We create personal electronics for well-being, from Protorype to Market. 
 
 ## Philosophy
 <p style="text-indent: 25px;">The most effective way to create sustainable development for humanity is in automation of the world around us, while caring about each individual, our society and planet.
