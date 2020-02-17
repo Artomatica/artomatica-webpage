@@ -10,6 +10,8 @@ last_modified_at:
 
 e-mail: <a href = "mailto: hi@artomatica.com">hi@artomatica.com</a>
 
+Have an urgent question? Drop us SMS on +13072128899, our specialist will text you back shortly.
+
 ## Contact form
 
 {% include contact-form.html %}
