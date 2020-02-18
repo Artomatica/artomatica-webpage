@@ -9,7 +9,7 @@ last_modified_at:
 <img width="100%" style="float: left; height: 100%; width: 100%; overflow: visible; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
 ## What we are doing
-We create personal electronics for well-being, from Prototype to Market we empower people who wants comfort and predictability in their lifes.
+We create personal electronics for well-being, from Prototype to Market we empower people who wants comfort and predictability in their lives.
 
 ## Philosophy
 <p style="text-indent: 25px;">The most effective way to create sustainable development for humanity is in automation of the world around us, while caring about each individual, our society and planet.
