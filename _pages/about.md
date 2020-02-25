@@ -8,6 +8,9 @@ last_modified_at:
 
 <img width="100%" style="float: left; height: 100%; width: 100%; overflow: visible; padding-left: 0px; padding-bottom: 10px; padding-right: 0px;" src="/assets/images/artomatica-logo-bottom.svg" >
 
+
+
+
 ## What we are doing
 We create personal electronics for well-being. From Prototype to Market we empower people who wants comfort and predictability in their lives.
 
@@ -19,11 +22,11 @@ We value active thinking, quality, humility, collaboration, efficiency, and bein
 
 ## Founders
 
-[Andrii Shylenko](linkedin.com/in/shylenko/), CEO 
+[Andrii Shylenko](https://linkedin.com/in/shylenko/), CEO 
 
 ## Contact
 
-Send us an email at hi@artomatica.com. 
+Send us an email at [hi@artomatica.com](mailto:hi@artomatica.com). 
 We’re always happy to chat or get feedback.
 
 
