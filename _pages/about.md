@@ -11,7 +11,7 @@ last_modified_at:
 
 
 
-## What we are doing
+# What we are doing
 We create personal electronics for well-being. From Prototype to Market we empower people who wants comfort and predictability in their lives.
 
 ## Our team
